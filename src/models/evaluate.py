@@ -4,7 +4,7 @@ import numpy as np
 def fit_and_score(models, X_train, X_test, y_train, y_test):
     """
     Fits and evaluates given ML models.
-     X_train : training data
+    X_train : training data
     X_test : testing data
     y_train : labels assosciated with training data
     y_test : labels assosciated with test data
