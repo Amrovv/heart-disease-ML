@@ -87,5 +87,4 @@ Python 3.12 · pandas · NumPy · scikit-learn · matplotlib · seaborn · Jupyt
 ## Acknowledgements
 
 Built while following Daniel Bourke's *Zero to Mastery* end-to-end heart disease
-classification tutorial, adapted to scikit-learn 1.9 (e.g. `RocCurveDisplay` in place of the
-removed `plot_roc_curve`) and organised into a small notebooks + `src/` repo.
+classification tutorial, organised into a small notebooks + `src/` repo.
